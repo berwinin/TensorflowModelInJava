@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="libraryTable">
+    <library name="groovy">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/src/main/groovy" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/src/main/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/src/spec/test" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/src/tck/src" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/src/test" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/src/test-fixtures/extmodule/src/main/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/src/test-resources" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-ant/src/main/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-ant/src/test-resources" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-ant/src/test/groovy" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-bsf/src/main/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-bsf/src/spec/test" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-bsf/src/test/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-console/src/main/groovy" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-datetime/src/main/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-datetime/src/test/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-dateutil/src/main/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-dateutil/src/test/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-groovydoc/src/main/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-groovydoc/src/test/groovy" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-groovydoc/src/test/resources" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-jaxb/src/main/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-jmx/src/main/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-jmx/src/test/groovy" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-jmx/src/test/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-json-direct/src/main/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-json/src/main/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-jsr223/src/main/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-jsr223/src/spec/test" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-jsr223/src/test/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-macro/src/main/groovy" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-macro/src/test/groovy" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-nio/src/main/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-servlet/src/main/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-servlet/src/test/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-sql/src/main/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-swing/src/main/groovy" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-swing/src/main/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-swing/src/test/groovy" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-templates/src/main/groovy" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-templates/src/test/groovy" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-templates/src/test/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-test-junit5/src/main/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-test/src/main/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-testng/src/main/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-xml/src/main/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/groovy-xml/src/test/groovy" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/performance/src/jmh/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/performance/src/test/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/stress/src/test/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/tests-vm8/src/main/java" />
+        <root url="file://$USER_HOME$/Downloads/javaWeb/groovy-2.5.8/src/subprojects/tests-vm8/src/test/java" />
+      </SOURCES>
+    </library>
+    <library name="scala-sdk-2.13.0" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/Downloads/spark/scala-2.13.0/lib/scala-library.jar" />
+          <root url="file://$USER_HOME$/Downloads/spark/scala-2.13.0/lib/scala-compiler.jar" />
+          <root url="file://$USER_HOME$/Downloads/spark/scala-2.13.0/lib/scala-reflect.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Downloads/spark/scala-2.13.0/lib/scala-library.jar!/" />
+        <root url="jar://$USER_HOME$/Downloads/spark/scala-2.13.0/lib/scala-reflect.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="http://www.scala-lang.org/api/2.13.0/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+  </component>
+</project>
